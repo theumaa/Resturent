@@ -34,7 +34,7 @@ function CreateRestaurent() {
             ></input>
           </div>
           <div className="mb-2">
-            <label htmlFor="">Restaurent Email</label>
+            <label htmlFor="">Restaurent Address</label>
             <input
               type="text"
               placeholder="Enter email"
@@ -43,7 +43,7 @@ function CreateRestaurent() {
             ></input>
           </div>
           <div className="mb-2">
-            <label htmlFor="">Restaurent Type</label>
+            <label htmlFor="">Telephone Number</label>
             <input
               type="text"
               placeholder="Enter type of the res"
